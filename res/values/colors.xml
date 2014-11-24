@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_activity">#fff3f3f3</color>
+    <color name="text_dark_gray">#ff888888</color>
+    <color name="black">#ff333333</color>
+    <color name="red">#fffe0000</color>
+    <color name="click_recent_history">#ffe6e6e6</color>
+    <color name="text_orange">#ffff632d</color>
+    <color name="text_blue">#ff339ee2</color>
+    <color name="text_green">#ff007a12</color>
+    <color name="text_selector">#ffd7d7d7</color>
+    <color name="title_color_black">#ff363636</color>
+    <color name="white">#ffffffff</color>
+    <color name="grab">#ffeaf5fc</color>
+    <color name="yellow">#fffff3ca</color>
+    <color name="hint">#ffcccccc</color>
+    <color name="btn_title_press">#ff1d84c6</color>
+    <color name="alert_dialog_content">#ff643805</color>
+    <color name="semitransparent">#bb000000</color>
+    <color name="calendar_active_month_bg">#fff5f7f9</color>
+    <color name="calendar_bg">#fff0f0f0</color>
+    <color name="calendar_divider_queryhistory">#ffbababa</color>
+    <color name="calendar_divider">#ffefefef</color>
+    <color name="calendar_inactive_month_bg">#ffd7d9db</color>
+    <color name="calendar_selected_day_bg">#ff379bff</color>
+    <color name="calendar_selected_range_bg">#ff96caff</color>
+    <color name="calendar_text_inactive">#40778088</color>
+    <color name="calendar_text_active">#ff778088</color>
+    <color name="calendar_text_selected">#ffffffff</color>
+    <color name="calendar_text_unselectable">#7f778088</color>
+    <color name="transparent">#00000000</color>
+</resources>

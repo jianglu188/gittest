@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+        <com.jaychou.railwayticket.widget.CtripButton
+            android:id="@+id/favorite_more_button_1"
+            android:layout_width="88.0dip"
+            android:layout_height="37.0dip"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/btn_filter_pressed_214"
+            android:text="更多" />
+</LinearLayout>
